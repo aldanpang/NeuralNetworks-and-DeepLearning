@@ -1,4 +1,4 @@
-Final Project done for SC4001 Neural Networks and Deep Learning
+#Final Project done for SC4001 Neural Networks and Deep Learning
 
 Experimenting with applying Self-Attention mechanism to Recurrent Convolutional Neural Network for recognising emotions from corpus of texts - specifically tweets from Twitter.
 This method was chosen with the goal of creating a model that understands the context of an entire sentence before assigning emotions to words.
